@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @nicoolas3198
+- 👋 Hi, I’m Nicolás
 Uruguayan, Junior programmer.
