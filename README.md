@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Nicolás
-Uruguayan, Junior programmer.
+- 👋 Hi, I’m Nicolás I was born in Uruguay and I am Junior programmer.
